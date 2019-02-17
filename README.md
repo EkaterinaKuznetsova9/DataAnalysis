@@ -1,4 +1,4 @@
 # DataAnalysis
-ДЗ на 23 ноября - в файле COVTYPE2, там старый код + про нейронные сети
+Датасет - http://archive.ics.uci.edu/ml/machine-learning-databases/covtype/ 
 
 
